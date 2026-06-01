@@ -107,4 +107,3 @@ npm run start
 Your production app will be running securely on **port 3000**.
 
 ---
-Now refresh your browser page at: **[https://github.com/vedant-vaidya-77/bookstrava](https://github.com/vedant-vaidya-77/bookstrava)**. You should see all files, folders, and this Markdown formatted guide beautifully presented!
