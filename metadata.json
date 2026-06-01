@@ -1,0 +1,6 @@
+{
+  "name": "Book Reading Tracker & Social Hub",
+  "description": "An interactive tracker for physical and digital book reading with Strava-like social features, reading analytics, and an integrated system architecture explorer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
